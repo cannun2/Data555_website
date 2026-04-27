@@ -1,0 +1,10 @@
+---
+title: "Projects"
+---
+
+### [DATA 550 Final Project](https://github.com/cannun2/Data550_Final)
+
+The final project for the DATA 500 class at Emory University. This project provides a report on Lung Cancer using a reproducable file structure.
+
+### [DATA 555 Capstone Dashboard](https://cannun2.github.io/capstone_dashboard/)
+A dashboard on my BIOS capstone project containing interactive graphs which demonstrate properties of Probit Regression with mixed effects models.

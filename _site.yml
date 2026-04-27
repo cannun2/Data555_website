@@ -1,9 +1,25 @@
 name: "Chris Annunziato's Website"
 navbar:
-  title: "Chris Annunziato's Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: Projects
+    href: projects.html
+    icon: fa-diagram-project
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: CV
+    href: files/CV.pdf
+    icon: fa-file
+  right:
+  - href: https://github.com/cannun2
+    icon: fa-github
+  - href: https://www.linkedin.com/in/chris-annunziato-53b159280/
+    icon: fa-linkedin
 output_dir: docs
+output:
+  html_document:
+    theme: cerulean
+    css: style.css

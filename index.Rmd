@@ -1,9 +1,21 @@
 ---
-title: "My Website"
+title: ""
 ---
 
-Hello, Website!
+::: columns
+::: {.column width="50%" style="text-align: center;"}
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+## Chris Annunziato
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+```{r, echo=FALSE, fig.align='center', out.width='40%'}
+knitr::include_graphics("images/Henry.jpg")
+```
+
+
+:::
+
+::: {.column width="50%" style="text-align: left;"}
+
+Hi, my name is Chris Annunziato and I am a Biostatistics MSPH student at Emory University. I have previously worked at the American Cancer Society on Breast Cancer Cox Propotional Hazard Models and with Dr. Robert Lyles at the Emory BIOS department on Rrobit Regression. You can connect with me on [linkedin](https://www.linkedin.com/in/chris-annunziato-53b159280/).
+
+:::

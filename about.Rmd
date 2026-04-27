@@ -1,5 +1,6 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
-More about this website.
+Chris Annunziato is a Biostatistics MSPH student from Emory Universty. He has past experience working at the American Cancer Society under Parichoy Pal Choudhury.
+Chris has a cat named Henry and enjoys spending time in nature.
